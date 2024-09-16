@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Effra';
+    src: url('alfont_com_AlFont_com_Effra_Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
     margin: 0%;
     padding: 0%;
@@ -12,6 +19,7 @@
     background-color: transparent;
     font-size: 2.9vw;
     line-height: 1.6;
+    font-family: 'Effra';
 }
 
 .page-1 {
